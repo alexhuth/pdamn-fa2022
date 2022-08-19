@@ -14,7 +14,7 @@
 #### TA Contact Information
 * Suna Guo
 * office hours: TBD
-# email: sguo19@utexas.edu
+* email: sguo19@utexas.edu
 
 ## Course Description
 This course will help you learn how to build and run statistical and computational analyses of neuroscience data using Python and other general-purpose programming libraries. 

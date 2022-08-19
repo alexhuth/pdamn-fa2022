@@ -1,6 +1,6 @@
-# Neuro Data Analysis in Python - Syllabus
+# Programming & Data Analaysis in Modern Neuroscience - Syllabus
 
-* **Course**: NEU 365P (56259) Neuro Data Analysis in Python
+* **Course**: NEU 365P (56259) Programming & Data Analaysis in Modern Neuroscience
 * **Semester**: Fall 2022
 * **Location**: WEL 2.306
 * **Time**: MWF 11:00AM - 12:00PM

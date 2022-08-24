@@ -13,7 +13,7 @@
 
 #### TA Contact Information
 * Suna Guo
-* office hours: TBD
+* office hours: Mon 3:30-4:30pm online (for now) / Thu 10-11am online (Zoom: https://utexas.zoom.us/j/97459733986) 
 * email: sguo19@utexas.edu
 
 ## Course Description
